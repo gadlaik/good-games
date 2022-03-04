@@ -1,0 +1,83 @@
+﻿    1 Age of Empires 2
+    2 Age of Mythology
+    3 Assetto Corsa Competizione
+    4 Battlefield: Bad Company 2
+    5 Battlefield 3
+    6 Besiege
+    7 Bioshock Infinite
+    8 Borderlands 2
+    9 Borderlands 3
+    10 Bridge Constructor: The Walking Dead
+    11 Call of Duty 2
+    12 Call of Duty: Modern Warfare
+    13 Call of Duty: Modern Warfare 2
+    14 Call of Duty: World at War
+    15 Counter-Strike 1.6
+    16 Crysis
+    17 Dark Souls
+    18 Dark Souls 3
+    19 Diablo 3
+    20 DiRT 2
+    21 DiRT 3
+    22 DiRT Rally
+    23 Dragon Age: Origins
+    24 Dying Light
+    25 Elden Ring
+    26 Fallout 3
+    27 Fallout: New Vegas
+    28 Fallout 4
+    29 Far Cry 3
+    30 FlatOut 2
+    31 F.E.A.R 2: Project Origin
+    32 FTL: Faster Than Light
+    33 Grand Theft Auto III
+    34 Grand Theft Auto: Vice City
+    35 Grand Theft Auto: San Andreas
+    36 Grand Theft Auto IV
+    37 Grand Theft Auto V
+    38 GRID(2008)
+    39 Hades
+    40 Half Life 2
+    41 Hearthstone
+    42 Heroes of Might and Magic III
+    43 Just Cause 2
+    44 Kingdom Come: Deliverance
+    45 Kingdoms of Amalur: Reckoning
+    46 League of Legends
+    47 Lost Ark
+    48 Mafia 2
+    49 Mass Effect 2
+    50 Metro: Last Light
+    51 Middle-earth: Shadow of Mordor
+    52 Mount & Blade: Warband
+    53 Mount & Blade: Bannerlord
+    54 Need for Speed: Underground 2
+    55 Need for spped: Most Wanted
+    56 Path of Exile
+    57 Portal
+    58 Portal 2
+    59 PUBG
+    60 Red Dead Redemption
+    61 Red Faction: Guerrilla 
+    62 Resident Evil 5
+    63 Resistance: Fall of Man
+    64 Singularity
+    65 Slay The Spire
+    66 Sniper Elite V2
+    67 StarCraft II
+    68 Stronghold: Crusader
+    69 Teafight Tactics
+    70 The Elder Scrolls IV: Oblivion
+    71 The Elder Scrolls V: Skyrim
+    72 The Last of Us
+    73 The Lord of the Rings: The Battle for Middle-Earth II
+    74 Tomb Raider
+    75 Totally Accurate Battle Simulator
+    76 Valheim
+    77 Warcraft 3
+    78 WARHAMMER 40,000: DAWN OF WAR
+    79 WARHAMMER 40,000: DAWN OF WAR 2
+    80 World of Warcraft: The Burning Crusade
+    81 World of Warcraft: Wrath of the Lich King
+    82 World of Warcraft: Cataclysm
+    83 World of Warcraft: Legion
